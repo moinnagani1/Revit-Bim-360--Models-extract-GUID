@@ -24,7 +24,6 @@ A PowerShell-based utility for scanning and extracting Revit model information f
 ## Prerequisites
 
 * Windows PowerShell 5.1 or later
-* Admin rights for script execution
 * Autodesk Forge account
 * BIM360/ACC account with administrator access
 
