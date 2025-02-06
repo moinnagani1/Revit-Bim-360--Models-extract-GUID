@@ -1,4 +1,4 @@
-# Revit Bim 360 Models extract GUID Revit File Name, Project Guid,Project Name, Revit File GUID, File Path
+# Revit Bim 360 Models extract GUID Revit File Name, Project Guid,Project Name, Revit File GUID, File Path, Revit File Version
 
 A PowerShell-based utility for scanning and extracting Revit model information from BIM360/ACC projects. This tool provides a user-friendly GUI interface to browse BIM360 folder structures and generate comprehensive model reports.
 
