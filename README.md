@@ -64,7 +64,7 @@ A PowerShell-based utility for scanning and extracting Revit model information f
 
 1. Download the Script
    ```powershell
-   git clone https://github.com/yourusername/BIM360Scanner.git
+   Extract revit Cloud model GUID.ps1
    cd BIM360Scanner
    ```
 
