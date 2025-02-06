@@ -8,8 +8,8 @@ A PowerShell-based utility for scanning and extracting Revit model information f
 
 A PowerShell-based utility for scanning and extracting Revit model information from BIM360/ACC projects. This tool provides a user-friendly GUI interface to browse BIM360 folder structures and generate comprehensive model reports.
 
-![GUI Interface
-](image.png)
+![image](https://github.com/user-attachments/assets/c4982bb9-cc94-49ec-a030-b4c90eee55c5)
+
 
 ## Features
 
@@ -168,7 +168,4 @@ For support, please:
 **Disclaimer:** Always test the script in a non-production environment first.
 
 
-
-
-
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/1dca64ff-ea25-4cbf-a117-b0edf2e9507b)
